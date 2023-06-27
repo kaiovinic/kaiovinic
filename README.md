@@ -1,7 +1,8 @@
 ### Olá devs, me chamo kaio Vinicius! 👋
 
 <div> 
-<p><a href="https://github.com/kaiovinic"><img src="https://github.com/kaiovinic/kaiovinic/blob/main/imagens%20avatar/avatar01.png?raw=true" width="100%" height="auto"/></a></p>
+<p><a href="https://github.com/kaiovinic"><img src="https://github.com/kaiovinic/kaiovinic/blob/main/imagens%20avatar/avatar01.png?raw=true" width="150" height="auto"/></a></p>
+<p>Tenho 37 anos, moro em Salvador-BA e sou apaixonada por programação!</p>
  
   <a href="https://www.instagram.com/kaio31vinicius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:silvasantoskaiovinicius@gmail.com" target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
