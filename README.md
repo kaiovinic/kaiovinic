@@ -2,7 +2,7 @@
 
 <div> 
 <p><a href="https://github.com/kaiovinic"><img src="https://github.com/kaiovinic/kaiovinic/blob/main/imagens%20avatar/avatar01.png?raw=true" width="150" height="auto"/></a></p>
-<p>Tenho 37 anos, moro em Salvador-BA e sou apaixonada por programação!</p>
+<p>Sou iniciante apaixonado por programação aos 37 anos, moro em Salvador-BA. Com uma curiosidade inesgotável e determinação incansável, eu mergulhei no mundo da codificação para explorar novos horizontes tecnológicos. Com cada linha de código que escrevo,estou construindo os alicerces de uma promissora carreira no desenvolvimento de software. Minha busca pela excelência e dedicação em aprender estão preparando-o para alcançar grandes conquistas nesse universo fascinante da programação.</p>
  
   <a href="https://www.instagram.com/kaio31vinicius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:silvasantoskaiovinicius@gmail.com" target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
