@@ -21,11 +21,11 @@
 <h3 align="left">Ferramentas:</h3>
  <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/>  </a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="40" height="40"/>  </a>
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> </a>
  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cypress" width="40" height="40"/> </a> 
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cypress&theme=light" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=npm" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
