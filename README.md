@@ -1,5 +1,5 @@
 <h1 align="center">Olá Devs 👋, eu sou Kaio Vinicius</h1>
-<h3 align="center">Sou um Desenvolvedor frontend, apaixonado por programação, tenho 38 anos, moro em Salvador-BA. Com uma curiosidade inesgotável e determinação incansável, eu mergulhei no mundo da codificação para explorar novos horizontes tecnológicos. Com cada linha de código que escrevo,estou construindo os alicerces de uma promissora carreira no desenvolvimento de software. Minha busca pela excelência e dedicação em aprender estão preparando-o para alcançar grandes conquistas nesse universo fascinante da programação.</h3>
+<h3>Sou um Desenvolvedor frontend, apaixonado por programação, tenho 38 anos, moro em Salvador-BA. Com uma curiosidade inesgotável e determinação incansável, eu mergulhei no mundo da codificação para explorar novos horizontes tecnológicos. Com cada linha de código que escrevo,estou construindo os alicerces de uma promissora carreira no desenvolvimento de software. Minha busca pela excelência e dedicação em aprender estão preparando-o para alcançar grandes conquistas nesse universo fascinante da programação.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
